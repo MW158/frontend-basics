@@ -40,11 +40,16 @@ body {
 }
 
 .contents .content{
-  flex: 1 0 auto;
+  flex: 1 1 auto;
   background-color: #ffffcb;
 }
 
 .contents .content h2{
+  margin: 0;
+  padding: 16px 10px;
+}
+
+.contents .content p{
   margin: 0;
   padding: 16px 10px;
 }
